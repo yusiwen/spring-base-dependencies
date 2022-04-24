@@ -4,7 +4,7 @@
 
     <groupId>cn.yusiwen</groupId>
     <artifactId>spring-base-dependencies</artifactId>
-    <version>2</version>
+    <version>3-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>spring-cloud-parent-pom</name>
@@ -22,7 +22,7 @@
         <connection>scm:git:ssh://git@github.com/yusiwen/spring-base-dependencies.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/yusiwen/spring-base-dependencies.git</developerConnection>
         <url>https://github.com/yusiwen/spring-base-dependencies</url>
-        <tag>v2</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
